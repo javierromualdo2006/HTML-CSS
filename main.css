@@ -1,0 +1,11 @@
+/*comentario*/
+
+
+.encabezado{
+  text-align: center;
+ }
+
+.ingredientes{
+    display: flex;
+    justify-content: space-evenly;
+}
