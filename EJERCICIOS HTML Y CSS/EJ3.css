@@ -1,0 +1,6 @@
+.left{
+    display: grid;
+    justify-content: center;
+    max-width: 300px;
+    background-color: black;
+}

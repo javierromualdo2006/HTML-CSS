@@ -1,8 +1,9 @@
 
 .alineamiento{
-    display: grid;
+    display: center;
     text-align: center;
     max-width: 100%;
+    background-image: url(imagenes/fondo.webp);
     background-color: black;
     color: white;
 }
@@ -20,6 +21,6 @@
 }
 
 .imagen2{
-    width: 200px;
+    width: 250px;
 }
 
