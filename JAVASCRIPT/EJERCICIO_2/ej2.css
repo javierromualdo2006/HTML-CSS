@@ -1,14 +1,7 @@
-.alinear{
-    background-color: aqua;
-}
-
-.grid{
-    display: grid;
+.centrar{
+    display: center;
     grid-template-columns: repeat(3, 450px);
     grid-template-rows: repeat(3, 450px);
     background-color: aqua;
-    text-align: center;
-}
-.center{
     text-align: center;
 }

@@ -1,4 +1,4 @@
-.left{
+.grid{
     display: grid;
     justify-content: center;
     max-width: 300px;

@@ -1,6 +1,9 @@
-.left{
+.alinear{
+    background-color: rgb(245, 245, 245);
+}
+
+.grid{
     display: grid;
-    justify-content: center;
-    max-width: 300px;
-    background-color: black;
+    grid-template-columns: repeat(3, 300px);
+    grid-template-rows: repeat(3, 300px);
 }
