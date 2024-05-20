@@ -11,3 +11,5 @@ while (i < numeros.length) {
 
 }
 console.log(sumarPares(numeros))
+
+                                            
